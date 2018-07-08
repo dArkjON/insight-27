@@ -1,5 +1,5 @@
 {
-  "name": "insight-bitcore-api",
+  "name": "Litesight-bitcore-api",
   "description": "An open-source bitcoin blockchain API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
   "version": "0.2.18",
   "repository": "git://github.com/dArkjON/insight-27.git",
